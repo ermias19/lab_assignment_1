@@ -7,10 +7,6 @@
   
 
 }
-.extnal_infos{
-    display: flex;
-
-}
 .picture{
     
     border-radius: 10%;
@@ -27,6 +23,20 @@
     border-radius: 15px;
     
 }
+.extnal_infos{
+    
+   
+    justify-content: center;
+    
+
+}
+ .work_expirince, .top_skills ,.hoppies{
+    margin: 10px;
+   
+  
+}
+
+
 
 
 body{
@@ -45,7 +55,10 @@ header{
     
 }
 section{
-    border: khaki;
+    
+    border: 3px solid;
+    
+    
 }
     
 /* link style ..  */
