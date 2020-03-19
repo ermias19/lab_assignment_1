@@ -1,0 +1,45 @@
+
+nav > ul > li{
+    display: inline-block;
+    padding: 10px 3px;
+    font-size: 20px;
+    border-radius: 50%;
+    
+}
+
+nav > ul > li > a{
+    text-decoration: none;
+    color: ivory;
+    
+}
+body{
+
+background-color: gray;
+
+
+}
+.tic_tac{
+    width: 100%;
+    
+}
+header{
+    background-color: rgba(12,23,11,0.3);
+    border-radius: 10px;
+}
+.ver_1_tic{
+    border-right:   3px solid black;
+    align-content: center;
+   
+    
+  
+    
+}
+.ver_2_tic{
+    border-left: 3px solid black;   
+    height: 500px;
+
+    
+
+}
+
+
