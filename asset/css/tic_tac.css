@@ -15,31 +15,51 @@ nav > ul > li > a{
 body{
 
 background-color: gray;
-
-
-}
-.tic_tac{
-    width: 100%;
-    
 }
 header{
     background-color: rgba(12,23,11,0.3);
     border-radius: 10px;
 }
-.ver_1_tic{
-    border-right:   3px solid black;
-    align-content: center;
-   
+/*  */
+
+
+
+    
+
+.main_tic_tac{
+    width: 200%;
+    margin-left: 300px;
+    display: flex;
+    
     
   
-    
 }
-.ver_2_tic{
-    border-left: 3px solid black;   
-    height: 500px;
-
+.first_tic{
+    height: 200px;
+    width: 200px;
+    border-left: 3px solid black;
+    border-top:3px solid black ;
     
-
+   
 }
+.second_tic{
+    height: 200px;
+    width: 200px;
+    border-left: 3px solid black;
+    border-top: 3px solid black;
+   
+}
+.thired_tic{
+    height: 200px;
+    width: 200px;
+    border-left: 3px solid black;
+    border-top: 3px solid black;
+   
+}
+/* .secondd_tic  {
+    border-top: 3px solid black;
+     */
+    
+    
 
 
