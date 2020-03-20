@@ -89,6 +89,43 @@ nav > ul > li > a{
 ul{
     list-style-image: url(../image/right_logo.png);
 }
+/* css of contact */
+textarea{
+    resize: none;
+    max-height: 100px;
+}
+.contact_txt{
+    font-style: italic;
+    font-size: 20px;
+}
+.input_css{
+    overflow: hidden;
+    margin-top: 20px;
+
+    
+    
+}
+.input_css> input ,.input_css> option{
+    border: none;
+    outline: none;
+    background: none;
+    border-bottom: 2px solid gray;
+}
+.input_css> option{
+    background-color: gray ;
+}
+.contact_form_container{
+    
+    padding-left: 20px;
+
+    background-color: rgb(63, 62, 62);
+    border-radius: 25px;
+}
+.mapouter{
+    margin-left:250px ;
+    margin-top: 25px;
+}
+
     
 
 
