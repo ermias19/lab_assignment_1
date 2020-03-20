@@ -40,3 +40,10 @@ nav > ul > li > a{
     color: ivory;
     
 }
+header{
+    background-color: rgba(12,23,11,0.3);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+}      

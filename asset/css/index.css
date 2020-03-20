@@ -86,7 +86,9 @@ nav > ul > li > a{
 .dicription>p{
     font-size: 20px;
 }
-
+ul{
+    list-style-image: url(../image/right_logo.png);
+}
     
 
 
