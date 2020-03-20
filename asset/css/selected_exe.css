@@ -1,0 +1,42 @@
+body{
+    background-color: #bdc3c7;
+}
+h1{
+    color: #9b59b6;
+}
+h2{
+    color: orange;
+}
+li{
+    color: blue;
+}
+p{
+    color: yellow;
+}
+.hello{
+    background-color: white;
+
+}
+input{
+    border: 3px solid red ;
+    background-color: gray;
+}
+:checked{
+    border: 3px solid red ;
+    
+
+}
+/*  */
+nav > ul > li{
+    display: inline-block;
+    padding: 10px 3px;
+    font-size: 20px;
+    border-radius: 50%;
+    
+}
+
+nav > ul > li > a{
+    text-decoration: none;
+    color: ivory;
+    
+}

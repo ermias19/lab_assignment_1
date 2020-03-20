@@ -1,0 +1,48 @@
+body{
+
+    background-color: rgb(31, 30, 30);
+    margin: 10px auto;
+   
+}
+header{
+
+    background-color: rgba(12,23,11,0.3);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+    
+}
+section{
+    
+    border: 3px solid;
+    
+    
+}
+    
+/* link style ..  */
+nav > ul > li{
+    display: inline-block;
+    padding: 10px 3px;
+    font-size: 20px;
+    border-radius: 50%;
+    
+}
+
+nav > ul > li > a{
+    text-decoration: none;
+    color: ivory;
+}
+.questions{
+    margin-top: 100px;
+}
+ li{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 50%;
+}
+ a{
+    text-decoration: none;
+    color: ivory;
+}    

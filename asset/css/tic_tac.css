@@ -14,7 +14,8 @@ nav > ul > li > a{
 }
 body{
 
-background-color: gray;
+    background-color: rgb(31, 30, 30);
+    margin: 10px auto;
 }
 header{
     background-color: rgba(12,23,11,0.3);
