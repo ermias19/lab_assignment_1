@@ -44,6 +44,10 @@ article{
     background-color: rgb(77, 61, 61);
     border-radius: 25px;
 }
+a:hover{
+    background: rgb(24, 23, 23);
+    border-radius: 5px;
+}
 
 /* link style ..  */
 nav > ul > li{

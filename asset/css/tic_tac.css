@@ -24,6 +24,10 @@ header{
     top: 0;
     right: 0;
 }
+a:hover{
+    background: rgb(24, 23, 23);
+    border-radius: 5px;
+}
 /*  */
 
 

@@ -51,3 +51,7 @@ nav > ul > li > a{
 p{
     font-size: 50px;
 }
+body a:hover{
+    background: black;
+    border-radius: 5px;
+}

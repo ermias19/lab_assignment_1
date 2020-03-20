@@ -89,6 +89,10 @@ nav > ul > li > a{
 ul{
     list-style-image: url(../image/right_logo.png);
 }
+a:hover{
+    background: rgb(24, 23, 23);
+    border-radius: 5px;
+}
 /* css of contact */
 textarea{
     resize: none;
