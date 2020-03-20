@@ -18,7 +18,10 @@ background-color: gray;
 }
 header{
     background-color: rgba(12,23,11,0.3);
-    border-radius: 10px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
 }
 /*  */
 
@@ -28,33 +31,70 @@ header{
 
 .main_tic_tac{
     width: 200%;
-    margin-left: 300px;
+    margin-left: 350px;
     display: flex;
     
     
   
 }
-.first_tic{
+.one_tic{
     height: 200px;
     width: 200px;
-    border-left: 3px solid black;
-    border-top:3px solid black ;
+    
+    
     
    
 }
-.second_tic{
+.two_tic{
     height: 200px;
     width: 200px;
     border-left: 3px solid black;
-    border-top: 3px solid black;
+    
    
 }
-.thired_tic{
+.three_tic{
+    height: 200px;
+    width: 200px;
+    border-left: 3px solid black;
+    
+   
+}
+.four_tic{
+    height: 200px;
+    width: 200px;
+   
+    border-top: 3px solid black;
+
+}
+.five_tic{
     height: 200px;
     width: 200px;
     border-left: 3px solid black;
     border-top: 3px solid black;
-   
+}
+.six_tic{
+    height: 200px;
+    width: 200px;
+    border-left: 3px solid black;
+    border-top: 3px solid black;
+}
+.seven_tic{
+    height: 200px;
+    width: 200px;
+    
+    border-top: 3px solid black;
+}
+.eight_tic{
+    height: 200px;
+    width: 200px;
+    border-left: 3px solid black;
+    border-top: 3px solid black;
+}
+.nine_tic{
+    height: 200px;
+    width: 200px;
+    border-left: 3px solid black;
+    border-top: 3px solid black;
 }
 /* .secondd_tic  {
     border-top: 3px solid black;
